@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Loginator</id>
+    <id>CreativeIdea.Loginator</id>
     <version>1.0.0.0</version>
     <title>Loginator - A utility wrapper for the NLog system</title>
-    <authors>Steve Demaine</authors>
-    <owners>Steve Demaine</owners>
+    <authors>Stephen Demaine</authors>
+    <owners>Stephen Demaine</owners>
+	
     <projectUrl>https://github.com/sdemaine/Loginator.git</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/sdemaine/Loginator/master/Loginator/LoginatorLogo.ico</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/sdemaine/Loginator/master/LoginatorLogoWhite.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides static methods for utilizing NLog</description>
     <releaseNotes></releaseNotes>

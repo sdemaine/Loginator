@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loginator", "Loginator.csproj", "{7CEDEBFF-6316-4728-95E3-2F7703E7218C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeIdea.Loginator", "CreativeIdea.Loginator.csproj", "{7CEDEBFF-6316-4728-95E3-2F7703E7218C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loginator.ConsoleUI", "..\Loginator.ConsoleUI\Loginator.ConsoleUI.csproj", "{49A08FF7-2F01-4599-AB9F-03E731B283FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeIdea.Loginator.ConsoleUI", "..\Loginator.ConsoleUI\CreativeIdea.Loginator.ConsoleUI.csproj", "{49A08FF7-2F01-4599-AB9F-03E731B283FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

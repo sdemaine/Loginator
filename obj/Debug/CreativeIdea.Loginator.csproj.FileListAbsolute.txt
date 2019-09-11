@@ -1,0 +1,11 @@
+C:\Users\sdemaine\source\Loginator\bin\Debug\NLog.config
+C:\Users\sdemaine\source\Loginator\bin\Debug\NLog.xsd
+C:\Users\sdemaine\source\Loginator\bin\Debug\Loginator.dll
+C:\Users\sdemaine\source\Loginator\bin\Debug\Loginator.pdb
+C:\Users\sdemaine\source\Loginator\bin\Debug\NLog.dll
+C:\Users\sdemaine\source\Loginator\bin\Debug\NLog.xml
+C:\Users\sdemaine\source\Loginator\obj\Debug\CreativeIdea.Loginator.csprojAssemblyReference.cache
+C:\Users\sdemaine\source\Loginator\obj\Debug\CreativeIdea.Loginator.csproj.CoreCompileInputs.cache
+C:\Users\sdemaine\source\Loginator\obj\Debug\CreativeIdea.Loginator.csproj.CopyComplete
+C:\Users\sdemaine\source\Loginator\obj\Debug\Loginator.dll
+C:\Users\sdemaine\source\Loginator\obj\Debug\Loginator.pdb
