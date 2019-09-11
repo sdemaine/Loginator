@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Loginator</id>
+    <version>1.0.0.0</version>
+    <title>Loginator - A utility wrapper for the NLog system</title>
+    <authors>Steve Demaine</authors>
+    <owners>Steve Demaine</owners>
+    <projectUrl>https://github.com/sdemaine/Loginator.git</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/sdemaine/Loginator/master/Loginator/LoginatorLogo.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides static methods for utilizing NLog</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>NLog, c#, Logging</tags>
+  </metadata>
+  <files>
+    <file src="NLog.config" target="content" />
+    <file src="NLog.xsd" target="content" />
+  </files>
+</package>
